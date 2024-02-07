@@ -18,7 +18,7 @@ Visualization: Visualize key sales metrics and insights using Databricks noteboo
 Getting Started
 To get started with our Sales Analysis project using PySpark on Databricks, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/sales-analysis-pyspark-databricks.git.
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/AKoul55/Python_Projects.
 Set up Databricks: Sign up for a Databricks account and create a new workspace. Follow the instructions provided by Databricks to set up your environment.
 Link of the notebook https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1342223608619913/4075858172940518/4585609952594197/latest.html
 Import Data: Upload the sales dataset to your Databricks workspace or connect to your data source directly using Databricks Connectors.
